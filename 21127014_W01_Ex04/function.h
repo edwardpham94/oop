@@ -1,1 +1,0 @@
-void HanoiTower(int n, char aRod, char bRod, char cRod);
