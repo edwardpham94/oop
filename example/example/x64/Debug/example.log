@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\HK1-YEAR2\OOP\LAB OOP\example\example\main.cpp(41,36): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\HK1-YEAR2\OOP\LAB OOP\example\example\main.cpp(66,36): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\HK1-YEAR2\OOP\LAB OOP\example\example\main.cpp(110): error C4700: uninitialized local variable 'ashape' used

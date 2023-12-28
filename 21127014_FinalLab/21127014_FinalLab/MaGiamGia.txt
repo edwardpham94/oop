@@ -1,0 +1,15 @@
+MX123
+Loai1
+Khong
+0.2
+50000
+SN192022
+Loai3
+Khong
+0.5
+100000
+DIENTU122022
+Loai2
+Khong
+0.4
+1000000

@@ -1,0 +1,94 @@
+﻿  function.cpp
+  main.cpp
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(6,2): error C2065: 'Phan': undeclared identifier
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(6,7): error C2146: syntax error: missing ';' before identifier 'so'
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(6,7): error C2065: 'so': undeclared identifier
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(6,10): error C2146: syntax error: missing ';' before identifier 'c'
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(6,10): error C3861: 'c': identifier not found
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(8,17): error C2143: syntax error: missing ')' before 'const'
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(8,17): error C2143: syntax error: missing ';' before 'const'
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(8,35): error C2059: syntax error: ')'
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(9,2): error C2065: 'c': undeclared identifier
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(9,18): error C2059: syntax error: ';'
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(10,2): error C2065: 'c': undeclared identifier
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(11,3): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(11,21): error C2248: 'PhanSo::tuSo': cannot access protected member declared in class 'PhanSo'
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\function.h(8): message : see declaration of 'PhanSo::tuSo'
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\function.h(5): message : see declaration of 'PhanSo'
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(12,3): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(12,22): error C2248: 'PhanSo::mauSo': cannot access protected member declared in class 'PhanSo'
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\function.h(9): message : see declaration of 'PhanSo::mauSo'
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\function.h(5): message : see declaration of 'PhanSo'
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(16,3): error C3927: '->': trailing return type is not allowed after a non-function declarator
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(16,3): error C3484: syntax error: expected '->' before the return type
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(16,4): error C3613: missing return type after '->' ('int' assumed)
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(16,15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(16,4): error C2146: syntax error: missing ';' before identifier 'inputPhanSo'
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(17,3): error C3927: '->': trailing return type is not allowed after a non-function declarator
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(17,3): error C3484: syntax error: expected '->' before the return type
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(17,4): error C3613: missing return type after '->' ('int' assumed)
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(17,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(17,2): error C2086: 'int a': redefinition
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(16): message : see declaration of 'a'
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(17,4): error C2146: syntax error: missing ';' before identifier 'outputPhanSo'
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(19,3): error C3927: '->': trailing return type is not allowed after a non-function declarator
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(19,3): error C3484: syntax error: expected '->' before the return type
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(19,4): error C3613: missing return type after '->' ('int' assumed)
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(19,15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(19,2): error C2371: 'b': redefinition; different basic types
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(18): message : see declaration of 'b'
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(19,4): error C2146: syntax error: missing ';' before identifier 'inputPhanSo'
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(20,3): error C3927: '->': trailing return type is not allowed after a non-function declarator
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(20,3): error C3484: syntax error: expected '->' before the return type
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(20,4): error C3613: missing return type after '->' ('int' assumed)
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(20,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(20,2): error C2371: 'b': redefinition; different basic types
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(18): message : see declaration of 'b'
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(20,4): error C2146: syntax error: missing ';' before identifier 'outputPhanSo'
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(22,6): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(22,2): error C2371: 'c': redefinition; different basic types
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(18): message : see declaration of 'c'
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(22,8): error C2088: '+': illegal for class
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(23,3): error C3927: '->': trailing return type is not allowed after a non-function declarator
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(23,3): error C3484: syntax error: expected '->' before the return type
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(23,4): error C3613: missing return type after '->' ('int' assumed)
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(23,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(23,2): error C2371: 'c': redefinition; different basic types
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(18): message : see declaration of 'c'
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(23,4): error C2146: syntax error: missing ';' before identifier 'outputPhanSo'
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(24,6): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(24,2): error C2371: 'c': redefinition; different basic types
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(18): message : see declaration of 'c'
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(24,8): error C2088: '-': illegal for class
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(25,3): error C3927: '->': trailing return type is not allowed after a non-function declarator
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(25,3): error C3484: syntax error: expected '->' before the return type
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(25,4): error C3613: missing return type after '->' ('int' assumed)
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(25,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(25,2): error C2371: 'c': redefinition; different basic types
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(18): message : see declaration of 'c'
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(25,4): error C2146: syntax error: missing ';' before identifier 'outputPhanSo'
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(26,6): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(26,2): error C2371: 'c': redefinition; different basic types
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(18): message : see declaration of 'c'
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(26,8): error C2088: '*': illegal for class
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(27,3): error C3927: '->': trailing return type is not allowed after a non-function declarator
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(27,3): error C3484: syntax error: expected '->' before the return type
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(27,4): error C3613: missing return type after '->' ('int' assumed)
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(27,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(27,2): error C2371: 'c': redefinition; different basic types
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(18): message : see declaration of 'c'
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(27,4): error C2146: syntax error: missing ';' before identifier 'outputPhanSo'
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(28,6): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(28,2): error C2371: 'c': redefinition; different basic types
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(18): message : see declaration of 'c'
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(28,8): error C2088: '/': illegal for class
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(29,3): error C3927: '->': trailing return type is not allowed after a non-function declarator
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(29,3): error C3484: syntax error: expected '->' before the return type
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(29,4): error C3613: missing return type after '->' ('int' assumed)
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(29,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(29,2): error C2371: 'c': redefinition; different basic types
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(18): message : see declaration of 'c'
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(29,4): error C2146: syntax error: missing ';' before identifier 'outputPhanSo'
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(31,1): error C2059: syntax error: '}'
+D:\HK1-YEAR2\OOP\LAB OOP\21127014_W04\Bai01\main.cpp(31,1): error C2143: syntax error: missing ';' before '}'
+  Generating Code...

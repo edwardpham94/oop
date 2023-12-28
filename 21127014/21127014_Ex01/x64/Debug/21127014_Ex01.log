@@ -1,0 +1,5 @@
+﻿  function.cpp
+  main.cpp
+  Generating Code...
+function.obj : error LNK2005: "class std::vector<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::allocator<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > > const list" (?list@@3V?$vector@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$allocator@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@@std@@B) already defined in main.obj
+D:\HK1-YEAR2\OOP\LAB OOP\21127014\x64\Debug\21127014_Ex01.exe : fatal error LNK1169: one or more multiply defined symbols found

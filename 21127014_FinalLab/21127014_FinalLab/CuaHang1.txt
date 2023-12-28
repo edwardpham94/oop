@@ -1,0 +1,37 @@
+Zanna Clothing
+11/01/2022
+2
+Tee basic Crew
+Thoi trang nam
+5
+120000
+Quan Jean Nam
+Thoi trang
+254000
+12
+FPT Shop
+10/02/2009
+3
+Samsung Galaxy 10 Plus
+Thiet bi dien tu
+10
+20000000
+Iphone 14 Pro Max
+Thiet bi dien tu
+45
+30000000
+Iphone 11
+Dien thoai
+12
+11000000
+Phuong Nam BookStore
+20/10/2019
+2
+Mai mai la bao xa
+Sach
+12
+120000
+Nghe thuat xu the
+Sach
+48
+88000
